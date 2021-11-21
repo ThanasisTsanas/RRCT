@@ -2,7 +2,7 @@
 Relevance, Redundancy, and Complementarity Trade-off, a robust feature selection algorithm
 
 ****************************************
-This function is a simplified, computationally efficient, robust approach for feature selection using the RRCT algorithm. The algorithm can be thought of as a natural extension to the popular mRMR feature selection algorithm, given that RRCT excplicitly takes into account relevance and redundancy (like mRMR), and also introduces an additional third term to account for conditional relevance (also known as complementarity).
+This function is a computationally efficient, robust approach for feature selection using the RRCT algorithm. The algorithm can be thought of as a natural extension to the popular mRMR feature selection algorithm, given that RRCT excplicitly takes into account relevance and redundancy (like mRMR), and also introduces an additional third term to account for conditional relevance (also known as complementarity).
 
 The RRCT algorithm is computationally very efficient and can run within a few seconds including on massive datasets with thousands of features. Moreover, it can serve as a useful 'off-the-shelf' feature selection algorithm because it generalizes well on both regression and classification problems, also without needing further adjusting for mixed-type variables.
 
