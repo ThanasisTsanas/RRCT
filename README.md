@@ -22,7 +22,7 @@ y        -> N by 1 vector with the numerical/categorical outputs
 
 optional inputs:  
 
-K        -> number of features to be selected (integer value)    [default K = M, or K = 30 if there are more than 50 features in the dataset]
+K        -> number of features to be selected (integer value)    [default K = M, or K = 30 if there are more than 30 features in the dataset]
 
 
 Output:  
