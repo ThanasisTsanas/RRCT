@@ -1,6 +1,0 @@
-# This folder contains my implementation of RRCT in Python.
-
-This file has not been optimized for speed and was developed as proof of concept to replicate my results in MATLAB. 
-Quite likely the implementation can be made considerably faster. Given the choice prefer to run MATLAB.
-
-I would appreciate if you make a computationally more efficient function of RRCT if you email me.
