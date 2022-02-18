@@ -1,5 +1,5 @@
 # RRCT
-Relevance, Redundancy, and Complementarity Trade-off, a robust feature selection algorithm
+Relevance, Redundancy, and Complementarity Trade-off, a robust feature selection algorithm (MATLAB and Python versions)
 
 ****************************************
 This function is a computationally efficient, robust approach for feature selection using the RRCT algorithm. The algorithm can be thought of as a natural extension to the popular mRMR feature selection algorithm, given that RRCT excplicitly takes into account relevance and redundancy (like mRMR), and also introduces an additional third term to account for conditional relevance (also known as complementarity).
