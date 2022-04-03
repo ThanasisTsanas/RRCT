@@ -8,7 +8,8 @@ The RRCT algorithm is computationally very efficient and can run within a few se
 
 More details can be found in my paper: 
 
-A. Tsanas: "Relevance, redundancy and complementarity trade-off (RRCT): a generic, efficient, robust feature selection tool", _Patterns_, (in press), 2022
+A. Tsanas: "Relevance, redundancy and complementarity trade-off (RRCT): a generic, efficient, robust feature selection tool", _Patterns_, Vol. 3:100471, 2022
+https://www.cell.com/patterns/pdf/S2666-3899(22)00051-4.pdf
 ****************************************
 
 **% General call: features = RRCT(X, y)**
@@ -31,8 +32,9 @@ features -> The selected features in descending order of importance (ranked by c
 
 ****************************************
 
-Copyright (c) Athanasios Tsanas, 2021
+Copyright (c) Athanasios Tsanas, 2022
 
 **If you use this program please cite:**
 
-A. Tsanas: "Relevance, redundancy and complementarity trade-off (RRCT): a generic, efficient, robust feature selection tool", _Patterns_, (in press), 2022
+A. Tsanas: "Relevance, redundancy and complementarity trade-off (RRCT): a generic, efficient, robust feature selection tool", _Patterns_, Vol. 3:100471, 2022
+https://doi.org/10.1016/j.patter.2022.100471
